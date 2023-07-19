@@ -2,10 +2,10 @@
 
 ## Project overview
 
-* The company needs to increase employee performance levels.
-* This data analysis will help HR determine what needs to be improved or not.
-* Employees were evaluated by termination reason, recruitment source, performance score, salary, absences, and hire date.
-* This analysis was done on a database with 1,000+ values using Ms. Excel only.
+* An bike store needs to increase its profits.
+* Bike sales evaluated by customer overview (income, commute distance, age bracket, education and region).
+* Marketing target is found by evaluating the customer characteristics.
+* This analysis was done on a dataset with 1,000+ values using Ms. Excel only.
 
 ## Objectives:
 ### Questions that will drive the analysis
@@ -44,9 +44,9 @@ Finally, we get a dashboard with 1 sheet showing bike sales customer overview. Y
 ![dashboard](https://github.com/al1fandi/Excel_Project/blob/53280c787b6ea3931f957610acc4865a131c545b/Image/Bike%20Sales%20Dashboard.png)
 
 ## Conclusions:
-* Customer yang melakukan pembelian memiliki penghasilan yang lebih besar daripada yang tidak melakukan pembelian. Ini bisa menjadi pertimbangan selanjutnya untuk menargetkan customer dengan penghasilan diatas $55.000 untuk melakukan pemasaran.
-* Customer sering menggunakan sepeda untuk perjalanan dengan jarak sekitar 0-1 dan 2-5 miles. Hal ini menandakan bahwa sepeda mungkin hanya digunakan untuk keperluan sehari-hari seperti untuk pergi berbelanja, menuju tempat kerja, dan kuliah.
-* Pembelian paling banyak dilakukan oleh customer middle age. Kategori usia ini akan menjadi fokus dalam melakukan usaha pemasaran.
+* Customers who make purchases have a higher income than those who do not make purchases. This finding can be a further consideration to target customers with income above $55,000 for marketing.
+* Customers often use bicycles for trips between 0-1 and 2-5 miles. This finding indicates that bikes may only be used for everyday purposes like shopping and commuting to work and college.
+* Middle age customers make most purchases. This age group will be the focus of marketing efforts.
 
 
 
