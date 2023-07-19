@@ -14,7 +14,7 @@
 * Which age category makes the most purchases. 
 
 ## Preparation and transformation data:
-The data shows the Bike_Sales_Raw. You can see the raw data in this [Link]. As you can see in the image below, the data format is already quite cleaned. We just need to convert it into a table format to facilitate the analysis process.
+The data shows the Bike_Sales_Raw. You can see the raw data in this **[Link](https://github.com/al1fandi/Excel_Project/blob/ca945d3aa5f073576e3e23f254f25cf3cc912b56/Bike_Sales_Raw.xlsx)**. As you can see in the image below, the data format is already quite cleaned. We just need to convert it into a table format to facilitate the analysis process.
 
 ![raw_data](https://github.com/al1fandi/Excel_Project/blob/53280c787b6ea3931f957610acc4865a131c545b/Image/raw_data.png)
 
@@ -39,7 +39,7 @@ Most of this analysis used Excel pivot tables and visualizations considering the
 ![customer_age_bracket](https://github.com/al1fandi/Excel_Project/blob/53280c787b6ea3931f957610acc4865a131c545b/Image/Customer%20Age%20Bracket.png)
 
 ## Visualization:
-Finally, we get a dashboard with 1 sheet showing bike sales customer overview. You can see the dashboard below and access the document by clicking this [Link].
+Finally, we get a dashboard with 1 sheet showing bike sales customer overview. You can see the dashboard below and access the document by clicking this **[Link](https://github.com/al1fandi/Excel_Project/blob/ca945d3aa5f073576e3e23f254f25cf3cc912b56/Bike%20Sales%20Analysis%20(Excel).xlsx)**.
 
 ![dashboard](https://github.com/al1fandi/Excel_Project/blob/53280c787b6ea3931f957610acc4865a131c545b/Image/Bike%20Sales%20Dashboard.png)
 
