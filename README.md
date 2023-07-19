@@ -9,9 +9,9 @@
 
 ## Objectives:
 ### Questions that will drive the analysis
-* Bagaimana rata-rata penghasilan customer ketika melakukan transaksi.
-* Berapakah jumlah masing-masing jarak tempuh antara customer yang melakukan transaksi dan tidak.
-* Berapakah kategori usia yang melakukan transaksi terbanyak 
+* Bagaimana rata-rata penghasilan customer ketika melakukan pembelian.
+* Berapakah jumlah masing-masing jarak tempuh antara customer yang melakukan pembelian dan tidak.
+* Kategori usia berapakah yang paling banyak melakukan pembelian. 
 
 ## Preparation and transformation data:
 The data shows the Bike_Sales_Raw. You can see the raw data in this [Link]. As you can see in the image below, the data format is already quite cleaned. We just need to convert it into a table format to facilitate the analysis process.
