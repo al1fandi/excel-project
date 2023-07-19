@@ -16,7 +16,7 @@
 ## Preparation and transformation data:
 The data shows the Bike_Sales_Raw. You can see the raw data in this [Link]. As you can see in the image below, the data format is already quite cleaned. We just need to convert it into a table format to facilitate the analysis process.
 
-[raw_data](https://github.com/al1fandi/Excel_Project/blob/53280c787b6ea3931f957610acc4865a131c545b/Image/raw_data.png)
+[raw_data]!(https://github.com/al1fandi/Excel_Project/blob/53280c787b6ea3931f957610acc4865a131c545b/Image/raw_data.png)
 
 The activities performed were the following:
 1. Create a format table in a row dataset
